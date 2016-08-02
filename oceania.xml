@@ -1,0 +1,2285 @@
+<itemContainer xmlns="http://omeka.org/schemas/omeka-xml/v5"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://omeka.org/schemas/omeka-xml/v5 http://omeka.org/schemas/omeka-xml/v5/omeka-xml-5-0.xsd"
+    uri="http://mappingoceaniadenison.org/admin/items?output=omeka-xml"
+    accessDate="2016-07-20T08:13:31-05:00">
+    <item itemId="108" public="1" featured="0">
+        <fileContainer>
+            <file fileId="119">
+                <src>http://mappingoceaniadenison.org/files/original/1da4ee2b4592367667957e18634fad8c.pdf </src>
+                <authentication>874438924e35d37c8581fb78b97c9d89</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="236">
+                                <text>Barkcloth, Tonga & Figure, Tonga</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="237">
+                                <text>Ngatu, Hikuleo, Goddess, Mana, Culture Contact, Barkcloth, Tonga, Figure</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="107" public="1" featured="0">
+        <fileContainer>
+            <file fileId="118">
+                <src>http://mappingoceaniadenison.org/files/original/89b23c585978fa9fd67cc89b8da39a1b.pdf </src>
+                <authentication>80f718b2bfe77c728397bfc337bb4306</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="234">
+                                <text>Ancestor Figure, Easter Island & Temple Figure of Ku, Hawaii</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="235">
+                                <text>Moai Kavakava, Rapa Nui, Warfare, Spirits, Mana, Ancestor Figure, Easter Island, Temple Figure of Ku, Hawaii</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="106" public="1" featured="0">
+        <fileContainer>
+            <file fileId="117">
+                <src>http://mappingoceaniadenison.org/files/original/a9049cef231b405db2238fc662fff618.pdf </src>
+                <authentication>8ea3350e24f36b3f16215bb748f26c58</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="232">
+                                <text>Inspiration Dish, Fiji & Bowl, Samoa</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="233">
+                                <text>Turtle, Awa, Kava, Inspiration Dish, Fiji, Bowl, Samoa</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="105" public="1" featured="0">
+        <fileContainer>
+            <file fileId="116">
+                <src>http://mappingoceaniadenison.org/files/original/b7f5472eddbc517afbeac7e9550544c8.pdf </src>
+                <authentication>0ece02222766b212bafe505590c99351</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="230">
+                                <text>Lizard Man Figure, Easter Island & Canoe Prow, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="231">
+                                <text>Maori, Rapa Nui, Sea Faring, Mana, Nature, Lizard Man Figure, Easter Island, Canoe Prow, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="104" public="1" featured="0">
+        <fileContainer>
+            <file fileId="115">
+                <src>http://mappingoceaniadenison.org/files/original/50ae252ea415616a0f38238e9d421b9b.pdf </src>
+                <authentication>324541dd7379a31e7c0e4d55a830d084</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="228">
+                                <text>Meeting House, New Zealand & Pendant, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="229">
+                                <text>Maori, Hei Tiki, Nephrite, Genealogy, Human Body, Meeting House, New Zealand & Pendant</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="103" public="1" featured="0">
+        <fileContainer>
+            <file fileId="114">
+                <src>http://mappingoceaniadenison.org/files/original/f41616bb349d20bd791dc813cdec4795.pdf </src>
+                <authentication>c5bd67e178cde301d27c5323fe277896</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="226">
+                                <text>Head, New Zealand & Treasure Box, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="227">
+                                <text>Maori, Wakahuia, Nature, Tikis, Head, New Zealand,Treasure Box</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="102" public="1" featured="0">
+        <fileContainer>
+            <file fileId="113">
+                <src>http://mappingoceaniadenison.org/files/original/07673f332fce1047a7ba4432ac239147.pdf </src>
+                <authentication>f4351fea4ed4f0150cb24ae037bc6a45</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="224">
+                                <text>Double-headed Female Figure, Easter Island & Carving of Mother</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="225">
+                                <text>Rapa Nui, Moai, Femininity, Myths, Double-headed Female Figure, Easter Island & Carving of Mother</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="101" public="1" featured="0">
+        <fileContainer>
+            <file fileId="112">
+                <src>http://mappingoceaniadenison.org/files/original/1192ee845a6ef6568432df54b01e5906.pdf </src>
+                <authentication>ac72fb7a6f2f33a84aab498918e28359</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="222">
+                                <text>Feeding Funnel, New Zealand & Drinking Vessel, Fiji</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="223">
+                                <text>Maori, Mana, Nobles, Nature, Feeding Funnel, New Zealand & Drinking Vessel, Fiji</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="100" public="1" featured="0">
+        <fileContainer>
+            <file fileId="111">
+                <src>http://mappingoceaniadenison.org/files/original/c7952825f850bae1d87cce9e731627da.pdf </src>
+                <authentication>e357f303e7b23529ce65ade549d4535b</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="220">
+                                <text>Ceremonial Adze, Cook Islands & Meeting House, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="221">
+                                <text>Mana, Men, Masculinity, Maori, Ceremonial Adze, Cook Islands & Meeting House, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="99" public="1" featured="0">
+        <fileContainer>
+            <file fileId="110">
+                <src>http://mappingoceaniadenison.org/files/original/314a35fbf749b4705c7ad1ccf03eaae6.pdf </src>
+                <authentication>e9ae8060e7b607144d6c31ff90d79269</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="218">
+                                <text>War Canoe Prow, New Zealand & River Canoe Prow, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="219">
+                                <text>Sea Faring, Maori, Tiki, Mana, War Canoe Prow, New Zealand & River Canoe Prow, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="98" public="1" featured="0">
+        <fileContainer>
+            <file fileId="109">
+                <src>http://mappingoceaniadenison.org/files/original/4ea4f835f22531702df9933eb5e6c6f8.pdf </src>
+                <authentication>374578b7cb681b7b5e49b28ee70ee29f</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="216">
+                                <text>Beaked Battle Hammer, Fiji & Pole Club, Cook Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="217">
+                                <text>Beaked Battle Hammer, Fiji, Pole Club, Cook Islands, Masculinity, Warfare, Weapon, Battle</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="97" public="1" featured="0">
+        <fileContainer>
+            <file fileId="108">
+                <src>http://mappingoceaniadenison.org/files/original/aaab98717f4540117b1600fe4baf94af.pdf </src>
+                <authentication>1246425f152554ea9c75ffbb6faa3308</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="214">
+                                <text>Beaked Battle Hammer, Fiji & War Club, Marquesas Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="215">
+                                <text>Beaked Battle Hammer, Fiji, War Club, Marquesas Islands, Warfare, Totokia, Geneology, Heirlooms, Masculinity</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="96" public="1" featured="0">
+        <fileContainer>
+            <file fileId="107">
+                <src>http://mappingoceaniadenison.org/files/original/40ff81b2510ea07833b618d541dcdde7.pdf </src>
+                <authentication>01ef28ed4a515b4484d9a8f082a1a94b</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="212">
+                                <text>Female Figure, Tonga & Wooden Image, Society Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="213">
+                                <text>Female Figure, Tonga, Wooden Image, Society Islands, Beauty, Fertility, Deity</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="95" public="1" featured="0">
+        <fileContainer>
+            <file fileId="106">
+                <src>http://mappingoceaniadenison.org/files/original/d5fda1665853ae8b3898ec6a5369ceea.pdf </src>
+                <authentication>7f9db60c656209889b8cc45d18117c0f</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="210">
+                                <text>Barkcloth, Samoa & Fan, Marquesas Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="211">
+                                <text>Barkcloth, Samoa, Fan, Marquesas Islands, Figure</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="94" public="1" featured="0">
+        <fileContainer>
+            <file fileId="105">
+                <src>http://mappingoceaniadenison.org/files/original/b8ab9a4141d2d3e3f7fd179c08e88eff.pdf </src>
+                <authentication>f3b66dcf039cdf4d3b9810d5577fac8b</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="208">
+                                <text>Three Pendants, New Zealand & Petroglyphs, Easter Island</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="209">
+                                <text>Pendants, New Zealand, Petroglyphs, Easter Island, Rapa Nui, Birdman, Tuff, Maori</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="93" public="1" featured="0">
+        <fileContainer>
+            <file fileId="104">
+                <src>http://mappingoceaniadenison.org/files/original/3bcc19292a88686a06dbbaae5b166729.pdf </src>
+                <authentication>53648dc46442f5a351cf3b54fdadae38</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="206">
+                                <text>Barkcloth, Wallis Island & Throwing Club, Fiji</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="207">
+                                <text>Barkcloth, Wallis Island, Throwing Club, Fiji, Warfare</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="92" public="1" featured="0">
+        <fileContainer>
+            <file fileId="103">
+                <src>http://mappingoceaniadenison.org/files/original/bc51cb0523f068e8e20e4df7f4dfb823.pdf </src>
+                <authentication>ea3788859984bdb94708c35e86e18ff0</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="204">
+                                <text>Figure, Tonga & War Club, Samoa</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="205">
+                                <text>Figure, Tonga, War Club, Samoa, Warfare</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="91" public="1" featured="0">
+        <fileContainer>
+            <file fileId="102">
+                <src>http://mappingoceaniadenison.org/files/original/56a2135c7f3d3fd5b8ee7c9280e60f9f.pdf </src>
+                <authentication>fa0af55f103117bfb3a61d30bdaceffa</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="202">
+                                <text>Barkcloth Figure, Easter Island & Figure, Easter Island</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="203">
+                                <text>Barkcloth, Easter Island, Figure, Rapa Nui, Moai Kavakava, Birdman</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="90" public="1" featured="0">
+        <fileContainer>
+            <file fileId="101">
+                <src>http://mappingoceaniadenison.org/files/original/06d27beab0ac83a30e912e9badf7a123.pdf </src>
+                <authentication>8c621fee9e39a26b5db5b823b8a59a44</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="200">
+                                <text>Staff God, Cook Islands & Figure, Austral Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="201">
+                                <text>Staff God, Cook Islands, Figure, Austral Islands, geneology, ancestors</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="89" public="1" featured="0">
+        <fileContainer>
+            <file fileId="100">
+                <src>http://mappingoceaniadenison.org/files/original/a7df70981639e4ccb105e3bb6d0fb7b1.pdf </src>
+                <authentication>2bf6ffb47ed347667eaad0235b057bcb</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="198">
+                                <text>Male Figure, Easter Island & Lizard Figure, Easter Island</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="199">
+                                <text>Figure, Easter Island, Lizard, Rapa Nui, Culture Contact, Famine</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="88" public="1" featured="0">
+        <fileContainer>
+            <file fileId="99">
+                <src>http://mappingoceaniadenison.org/files/original/a8f7e8636a9581c6b321f58bb7941bf7.pdf </src>
+                <authentication>a35e7fee12fd85e76b04d453831ee5fd</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="196">
+                                <text>Lei, Hawaii & Pendant, New Zealand</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="197">
+                                <text>Lei, Hawaii, Pendant, New Zealand, Hei Tiki, Nephrite, Mana</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="87" public="1" featured="0">
+        <fileContainer>
+            <file fileId="98">
+                <src>http://mappingoceaniadenison.org/files/original/e27fb00dfb2a5c33e2ffe4210ab8f16c.pdf </src>
+                <authentication>b19f8a9a611b203920fd7431a597aa4e</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="1">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="1">
+                                    <text>Polynesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="194">
+                                <text>War Club, Fiji & War Club, Marquesas Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="195">
+                                <text>War Club, Sali, Fiji, Marquesas Islands, Warfare</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="86" public="1" featured="0">
+        <fileContainer>
+            <file fileId="97">
+                <src>http://mappingoceaniadenison.org/files/original/a27c84e9a13b3a9f57dd44a4b786b29c.pdf </src>
+                <authentication>4463f1c7590de44b284ddbf26c429904</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="192">
+                                <text>Yam Mask, Sepik River & Malagan, Northern New Ireland</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="193">
+                                <text>yam mask, long yams, Abelam, Sepik River, manhood, malagan, funerary carving, New Ireland, Papua New Guinea, communities</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="85" public="1" featured="0">
+        <fileContainer>
+            <file fileId="96">
+                <src>http://mappingoceaniadenison.org/files/original/b6259944783835ae2a19f2ec0b572cb4.pdf </src>
+                <authentication>93d4b657efb7c3db22b38e2da2ee8924</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="190">
+                                <text>Uli, New Ireland & Malangan, New Ireland</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="191">
+                                <text>Men's Societies, Age Grade, Funerals, Funerary Ceremonies, Memory, Malangan, Uli, Death, New Ireland</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="84" public="1" featured="0">
+        <fileContainer>
+            <file fileId="95">
+                <src>http://mappingoceaniadenison.org/files/original/5b83f8686af9533bc9b3ec77d8a0c11d.pdf </src>
+                <authentication>636d5337f49c02823c370c1cf6e0681c</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="188">
+                                <text>Funerary Carving, Northern New Ireland & Skull Mask, New Britain</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="189">
+                                <text>Mask, Carving, Memory, Death, Ancestors, Spirits, Relics, Malangan, Initiation Ceremonies</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="83" public="1" featured="0">
+        <fileContainer>
+            <file fileId="94">
+                <src>http://mappingoceaniadenison.org/files/original/1c948410d3b2a5f566c5d1935c3d51da.pdf </src>
+                <authentication>7994de066d25a0f795360064fcb18c75</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="186">
+                                <text>Funerary Carving, New Ireland & Ritual Board, Siane People of Papua New Guinea</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="187">
+                                <text>malagan, wenena gerua, fertility, indigenous materials, ritual, ceremony, celebration, ancestor, life cycle</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="82" public="1" featured="0">
+        <fileContainer>
+            <file fileId="93">
+                <src>http://mappingoceaniadenison.org/files/original/ed14b1c12c03e7f407239be32dc35477.pdf </src>
+                <authentication>cdc9a2a62fe656ba0093bf4a233301a3</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="184">
+                                <text>Mask, Iatmul & Mask, Ramu</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="185">
+                                <text>Papua New Guinea, secret societies, genealogy, community, ceremony, trade, Sepik, totem</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="81" public="1" featured="0">
+        <fileContainer>
+            <file fileId="92">
+                <src>http://mappingoceaniadenison.org/files/original/bd388ca7ed991551e2ac0b871a56ef3d.pdf </src>
+                <authentication>85cb8d2170e81aced28af6e0666ec4d7</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="182">
+                                <text>Canoe Prow, Western New Guinea & Canoe Figurehead, Solomon Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="183">
+                                <text>Canoe, Totems, Water, Wood, Spiritual, Artists</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="80" public="1" featured="0">
+        <fileContainer>
+            <file fileId="91">
+                <src>http://mappingoceaniadenison.org/files/original/ce560a6f661738a7921437964bb89244.pdf </src>
+                <authentication>2f22c6afb5f5615d2ff4434b355a17cd</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="180">
+                                <text>Mai Mask, Papua New Guinea (Iatmul) & Mai Mask, Papua New Guinea (Sawos)</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="181">
+                                <text>trade networks, social networks, materials, mai, ritual</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="79" public="1" featured="0">
+        <fileContainer>
+            <file fileId="90">
+                <src>http://mappingoceaniadenison.org/files/original/68b66d022c4176e0f5e4f2ad862c7834.pdf </src>
+                <authentication>501feef068e049950761bf0cbaedbf68</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="178">
+                                <text>Mask, New Britain & Mask, Papua New Guinea</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="179">
+                                <text>Masquerades, Ceremonies, Genealogy, Spirit World, Connection with Nature, Age Grade, Kavat, Mai</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="78" public="1" featured="0">
+        <fileContainer>
+            <file fileId="89">
+                <src>http://mappingoceaniadenison.org/files/original/8f3edc6c40d7cc14eecb8a09abcaa831.pdf </src>
+                <authentication>dc04998878722b0c25e1d48383e6ff11</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="176">
+                                <text>Over-modeled Skull, Papua New Guinea & Bonito Fish Figure, Solomon Island</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="177">
+                                <text>Bonito fish, over-modeling, human skull, relics</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="77" public="1" featured="0">
+        <fileContainer>
+            <file fileId="88">
+                <src>http://mappingoceaniadenison.org/files/original/15c9b6438a7972219be719f24dc834f8.pdf </src>
+                <authentication>0b2e990819d656983fa0a0c060696de8</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="174">
+                                <text>Spirit House, New Guinea & Finial for a Ceremonial House, New Guinea</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="175">
+                                <text>New Guinea, Berlin, The Met, Spirit House, Tambaran, Ceremonial House, communal, community, architecture, sculpture, totem, spirit realm, spiritual, public</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="75" public="1" featured="0">
+        <fileContainer>
+            <file fileId="86">
+                <src>http://mappingoceaniadenison.org/files/original/f08708d9af8a9e39dc9f11f10fee5298.pdf </src>
+                <authentication>45bbe4dede07fa6e1e720cdb20a79c6b</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="170">
+                                <text>Canoe Prow, Northern New Ireland & Canoe Prow Ornament, Solomon Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="171">
+                                <text>Wood, inlaid, Kesoko, ocean, sea, spirit, Musumusu, Nguzunguzu, pearl shell, pigment, indigenous materials</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="74" public="1" featured="0">
+        <fileContainer>
+            <file fileId="85">
+                <src>http://mappingoceaniadenison.org/files/original/45a4660f6c87e07b0c660c061fe6ac5a.pdf </src>
+                <authentication>b58cabd3f9252558db611f19b118ba34</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="168">
+                                <text>Ceremonial Board, Papua New Guinea & Yipwon Spirit Figure, Papua New Guinea</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="169">
+                                <text>Abstract, Figure, Sacrifice, Ancestors, Spirits, Impermanence</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="73" public="1" featured="0">
+        <fileContainer>
+            <file fileId="84">
+                <src>http://mappingoceaniadenison.org/files/original/a2b62c201d49560038a1191a2d7d6ab8.pdf </src>
+                <authentication>8380ea8e11ebc337f7b0065ae5d866dd</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="166">
+                                <text>Standing Figure (Totok), New Ireland & Malangan Figure, New Ireland</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="167">
+                                <text>Malangan, New Ireland, Wood Carving, Painting Motifs, Spirituality, Destruction, Ceremony</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="72" public="1" featured="0">
+        <fileContainer>
+            <file fileId="83">
+                <src>http://mappingoceaniadenison.org/files/original/b1a10390f3f786e524327cfb81a73d78.pdf </src>
+                <authentication>1d1de5a02762277507653dc93d280a01</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="164">
+                                <text>Dance Headdress, New Britain & Mask, New Britain</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="165">
+                                <text>Dance, Mask, Headdress, Community, Change, Tradition, Cultural Exchange</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="71" public="1" featured="0">
+        <fileContainer>
+            <file fileId="82">
+                <src>http://mappingoceaniadenison.org/files/original/3faca5570234f2ba107d21e2f0d213be.pdf </src>
+                <authentication>7c4869be670720916f99d2646cca0546</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="162">
+                                <text>Pigment Dish, Papua New Guinea & Bowl, Admiralty Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="163">
+                                <text>Papua New Guinea, Sepik River, Admiralty Islands, Wood, Dish, Bowl, Ceremonial</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="70" public="1" featured="0">
+        <fileContainer>
+            <file fileId="81">
+                <src>http://mappingoceaniadenison.org/files/original/6518ba50e318a3ed162549f6fa436822.pdf </src>
+                <authentication>26672e4daaf787ea879c683ccf18d7c6</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="160">
+                                <text>Currency Roll, Santa Cruz & Flute, Vanuatu</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="161">
+                                <text>Indigenous commerce, trading, specialization, ethnic groups</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="69" public="1" featured="0">
+        <fileContainer>
+            <file fileId="80">
+                <src>http://mappingoceaniadenison.org/files/original/4f16b42f113f8c6916d5e609d4aceea2.pdf </src>
+                <authentication>689ddcc6f2a8677d60af216a282248cc</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="158">
+                                <text>Skull Rack, New Guinea & Neck Ornament, Admiralty Islands</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="159">
+                                <text>Headhunting, Clans, Cults, Masculinity, War, Individualism, Glass Beads, Skulls, Wood, Feathers, War Charm, Life Cycle, Fertility</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="68" public="1" featured="0">
+        <fileContainer>
+            <file fileId="79">
+                <src>http://mappingoceaniadenison.org/files/original/a871187ddd026bad5f1b7b87c428aaeb.pdf </src>
+                <authentication>bcfc6a6ab0c50727898e2ef927c3785b</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="156">
+                                <text>Mask, New Ireland & Mask, New Ireland</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="157">
+                                <text>Tatanua, Malangan, Ritual, Ceremony, Honoring the dead</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="67" public="1" featured="0">
+        <fileContainer>
+            <file fileId="78">
+                <src>http://mappingoceaniadenison.org/files/original/004d6f2498ed195ac4f589ee53a4b5c3.pdf </src>
+                <authentication>49363993cbe9d070d00126a447f42baf</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="154">
+                                <text>Figure, New Ireland & Funerary Carving, New Ireland</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="155">
+                                <text>Figure, Fertility, Funerary Carving, Funeral, Image Banks, Social Interaction, Masculinity, Age Grade, Destruction, Reuse</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="66" public="1" featured="0">
+        <fileContainer>
+            <file fileId="77">
+                <src>http://mappingoceaniadenison.org/files/original/d827efd96e61a0f2615b6c06ab90f566.pdf </src>
+                <authentication>624795e678aad1e88051401d7bdbff40</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="152">
+                                <text>Feast Bowl Admiralty Islands & Malangan Mask</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="153">
+                                <text>Impermanence, Social Relationships, Funerary Traditions and Rituals, Memory</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+    <item itemId="65" public="1" featured="0">
+        <fileContainer>
+            <file fileId="76">
+                <src>http://mappingoceaniadenison.org/files/original/32f810b0c8fb4f557cd2720a7dead794.pdf </src>
+                <authentication>7810e02b457c1791f5553365e427c8a6</authentication>
+            </file>
+        </fileContainer>
+        <collection collectionId="2">
+            <elementSetContainer>
+                <elementSet elementSetId="1">
+                    <name>Dublin Core</name>
+                    <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                    <elementContainer>
+                        <element elementId="50">
+                            <name>Title</name>
+                            <description>A name given to the resource</description>
+                            <elementTextContainer>
+                                <elementText elementTextId="87">
+                                    <text>Melanesia</text>
+                                </elementText>
+                            </elementTextContainer>
+                        </element>
+                    </elementContainer>
+                </elementSet>
+            </elementSetContainer>
+        </collection>
+        <elementSetContainer>
+            <elementSet elementSetId="1">
+                <name>Dublin Core</name>
+                <description>The Dublin Core metadata element set is common to all Omeka records, including items, files, and collections. For more information see, http://dublincore.org/documents/dces/.</description>
+                <elementContainer>
+                    <element elementId="50">
+                        <name>Title</name>
+                        <description>A name given to the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="150">
+                                <text>Mask, Papua New Guinea & Mask, New Ireland</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                    <element elementId="41">
+                        <name>Description</name>
+                        <description>An account of the resource</description>
+                        <elementTextContainer>
+                            <elementText elementTextId="151">
+                                <text>Ceremony, Ritual, Spirit, Community, Tradition, Funerary</text>
+                            </elementText>
+                        </elementTextContainer>
+                    </element>
+                </elementContainer>
+            </elementSet>
+        </elementSetContainer>
+    </item>
+</itemContainer>
