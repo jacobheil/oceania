@@ -39,10 +39,10 @@ for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('Object Type', '\r<object type>').replace('Object type', '\r<"object_type>').replace('Culture/location', '\r<cult_loc>').replace('Culture/Location', '\r<cult_loc>').replace('Culture/ location', '\r<cult_loc>').replace('Indigenous name', '\r<indig_name>').replace('Date', '\r<date>').replace('Materials', '\r<materials>').replace('Dimensions', '\r<dimensions>').replace('Institution and accession number', '\r<inst_access>').replace('Bibliography', '\r<bibl>')
+		new_doc = doc.replace('Object Type', '\r<object type>').replace('Object type', '\r<object_type>').replace('Culture/location', '\r<cult_loc>').replace('Culture/Location', '\r<cult_loc>').replace('Culture/ location', '\r<cult_loc>').replace('Indigenous name', '\r<indig_name>').replace('Date', '\r<date>').replace('Materials', '\r<materials>').replace('Dimensions', '\r<dimensions>').replace('Institution and accession number', '\r<inst_access>').replace('Bibliography', '\r<bibl>').replace('<P>', ).replace('</P>', )
 
 		with codecs.open("oceania_pdfs/_ocr_output_parsed/" + file_name + '_parsed.xml','w','utf-8') as out:
 			out.write(new_doc)
 		
 
-print finished
+print 'finished'
