@@ -12,8 +12,8 @@ Python script to extract xml data from the oceania files. I've saved them as .xm
 
 '''
 count = 0
-loc_count = 0
-ind_count = 0
+#loc_count = 0
+#ind_count = 0
 
 #if not os.path.exists("oceania_pdfs/_ocr_output_parsed"):
 #    os.makedirs("oceania_pdfs/_ocr_output_parsed")
