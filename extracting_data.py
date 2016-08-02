@@ -15,8 +15,8 @@ count = 0
 #loc_count = 0
 #ind_count = 0
 
-#if not os.path.exists("oceania_pdfs/_ocr_output_parsed"):
-#    os.makedirs("oceania_pdfs/_ocr_output_parsed")
+if not os.path.exists("oceania_pdfs/_ocr_output_parsed"):
+    os.makedirs("oceania_pdfs/_ocr_output_parsed")
 
 for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"): 
 	
@@ -29,9 +29,9 @@ for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"):
 	with codecs.open(i,"r","utf-8") as doc:
 		doc = doc.read()
 
-		
+		'''
 
-		if 'Indigenous name' in doc:
+		if 'Culture/location' or 'Culture/Location' in doc:
 			count = count + 1
 
 		else:
@@ -39,10 +39,10 @@ for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('Object Type', \r'<object type>').replace('Object type', '<"object_type>').replace('Culture/location', '<cult_loc>').replace('Culture/Location', '<cult_loc>').replace('Culture/ location', '<cult_loc>').replace('Indigenous name', '<indig_name>').replace('Bibliography', '<bibl>').replace('Date', '<date>').replace
+		new_doc = doc.replace('Object Type', '\r<object type>').replace('Object type', '\r<"object_type>').replace('Culture/location', '\r<cult_loc>').replace('Culture/Location', '\r<cult_loc>').replace('Culture/ location', '\r<cult_loc>').replace('Indigenous name', '\r<indig_name>').replace('Date', '\r<date>').replace('Materials', '\r<materials>').replace('Dimensions', '\r<dimensions>').replace('Institution and accession number', '\r<inst_access>').replace('Bibliography', '\r<bibl>')
 
 		with codecs.open("oceania_pdfs/_ocr_output_parsed/" + file_name + '_parsed.xml','w','utf-8') as out:
 			out.write(new_doc)
-		'''
+		
 
-print count
+print finished
