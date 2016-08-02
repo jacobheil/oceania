@@ -29,7 +29,9 @@ for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"):
 	with codecs.open(i,"r","utf-8") as doc:
 		doc = doc.read()
 
-		if 'Bibliography' in doc:
+		
+
+		if 'Indigenous name' in doc:
 			count = count + 1
 
 		else:
@@ -37,10 +39,10 @@ for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('Object Type', '<object type>').replace('Object type', '<object_type>').replace('Culture/location', '<cult_loc>').replace('Culture/Location', '<cult_loc>').replace('Culture/ location', '<cult_loc>').replace('Indigenous name', indig_name)
+		new_doc = doc.replace('Object Type', \r'<object type>').replace('Object type', '<"object_type>').replace('Culture/location', '<cult_loc>').replace('Culture/Location', '<cult_loc>').replace('Culture/ location', '<cult_loc>').replace('Indigenous name', '<indig_name>').replace('Bibliography', '<bibl>').replace('Date', '<date>').replace
 
 		with codecs.open("oceania_pdfs/_ocr_output_parsed/" + file_name + '_parsed.xml','w','utf-8') as out:
 			out.write(new_doc)
-'''		
+		'''
 
 print count
