@@ -39,10 +39,14 @@ for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('Object Type', '\r<object type>').replace('Object type', '\r<object_type>').replace('Culture/location', '\r<cult_loc>').replace('Culture/Location', '\r<cult_loc>').replace('Culture/ location', '\r<cult_loc>').replace('Indigenous name', '\r<indig_name>').replace('Date', '\r<date>').replace('Materials', '\r<materials>').replace('Dimensions', '\r<dimensions>').replace('Institution and accession number', '\r<inst_access>').replace('Bibliography', '\r<bibl>').replace('<P>', ).replace('</P>', )
+		new_doc = doc.replace('Object Type', '\r<obj_type>').replace('Object type', '\r<obj_type>').replace('Culture/location', '\r<cult_loc>').replace('Culture/Location', '\r<cult_loc>').replace('Culture/ location', '\r<cult_loc>').replace('Indigenous name', '\r<indig_name>').replace('Date', '\r<date>').replace('Materials', '\r<materials>').replace('Dimensions', '\r<dimensions>').replace('Institution and accession number', '\r<inst_access>').replace('Bibliography', '\r<bibl>').replace('<P>', '').replace('</P>', '').replace('</Part>', '</bibl>\r</Part>')
+
+		soup = BeautifulSoup(new_doc)
+
+		newer_doc = soup.part.extract()
 
 		with codecs.open("oceania_pdfs/_ocr_output_parsed/" + file_name + '_parsed.xml','w','utf-8') as out:
-			out.write(new_doc)
+			out.write(newer_doc)
 		
 
 print 'finished'
