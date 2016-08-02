@@ -43,7 +43,7 @@ for i in glob.glob("oceania_pdfs/_ocr_output_xml/*.xml"):
 
 		soup = BeautifulSoup(new_doc)
 
-		newer_doc = soup.part.extract().prettify()
+		newer_doc = soup.part.extract()
 			
 
 		with codecs.open("oceania_pdfs/_ocr_output_parsed/" + file_name + '_parsed.xml','w','utf-8') as out:
