@@ -23,7 +23,8 @@ for i in glob.glob("oceania_pdfs/_ocr_output_parsed/*.xml"):
 	with codecs.open(i,"r","utf-8") as doc:
 		doc = doc.read()
 
-		
+		'''
+		# Open this partition (and uncomment partition above final print statements) to run count tests for terms in the doc.
 
 		if '<inst_access>' in doc:
 			count = count + 1
@@ -42,6 +43,6 @@ for i in glob.glob("oceania_pdfs/_ocr_output_parsed/*.xml"):
 
 		with codecs.open("oceania_pdfs/_ocr_output_structured/" + file_name + '_ocr_output_structured.xml','w','utf-8') as out:
 			out.write(unicode(newer_doc))
-		'''
+		# '''
 print count
 print 'finished'
