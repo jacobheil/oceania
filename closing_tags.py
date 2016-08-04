@@ -25,7 +25,7 @@ for i in glob.glob("oceania_pdfs/_ocr_output_parsed/*.xml"):
 
 		
 
-		if '<cult_loc>' in doc:
+		if '<inst_access>' in doc:
 			count = count + 1
 
 		else:
