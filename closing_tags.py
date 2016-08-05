@@ -35,9 +35,9 @@ for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"):
 
 		'''
 
-		#new_doc = doc.replace('<part>\r', '<part>\r<metadata>\r')
+		new_doc = doc.replace('<part>\r', '<part>\r<metadata>\r')
 
-		soup = BeautifulSoup(doc)
+		soup = BeautifulSoup(new_doc)
 
 		newer_doc = soup.metadata.extract()
 			
@@ -47,7 +47,7 @@ for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"):
 
 		count = count + 1
 
-		 # '''
+		  
 
 print count
 print 'finished'
