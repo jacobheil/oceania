@@ -8,25 +8,26 @@ sys.setdefaultencoding('utf-8')
 
 count = 0
 
-#if not os.path.exists("oceania_pdfs/_ocr_output_structured"):
-#    os.makedirs("oceania_pdfs/_ocr_output_structured")
+if not os.path.exists("oceania_pdfs/_ocr_output_structured"):
+    os.makedirs("oceania_pdfs/_ocr_output_structured")
 
 for i in glob.glob("oceania_pdfs/_ocr_output_parsed/*.xml"): 
 	
 	#print i
 	#count = count + 1
 
-	file_name = i.split('/')[-1][:-4]
+	file_name = i.split('/')[-1][:-10]
 	
 	#count = count + 1
 	
 	with codecs.open(i,"r","utf-8") as doc:
 		doc = doc.read()
 
+		
 		'''
 		# Open this partition (and uncomment partition above final print statements) to run count tests for terms in the doc.
 
-		if '<inst_access>' in doc:
+		if '</inst_access></dimensions></materials></date></cult_loc></indig_name></obj_type></inst_access></dimensions></materials></date></cult_loc></indig_name></obj_type>' in doc:
 			count = count + 1
 
 		else:
@@ -34,15 +35,16 @@ for i in glob.glob("oceania_pdfs/_ocr_output_parsed/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('Object Type', '\r<obj_type>').replace('Object type', '\r<obj_type>').replace('Culture/location', '\r<cult_loc>').replace('Culture/Location', '\r<cult_loc>').replace('Culture/ location', '\r<cult_loc>').replace('Indigenous name', '\r<indig_name>').replace('Date', '\r<date>').replace('Materials', '\r<materials>').replace('Dimensions', '\r<dimensions>').replace('Institution and accession number', '\r<inst_access>').replace('Bibliography', '\r<bibl>').replace('<P>', '').replace('</P>', '').replace('</Part>', '</bibl>\r</Part>')
+		new_doc = doc.replace('</inst_access>', '').replace('</dimensions>', '').replace('</materials>', '').replace('</date>', '').replace('</indig_name>', '').replace('</cult_loc>', '').replace('</obj_type>', '')
 
 		#soup = BeautifulSoup(new_doc)
 
 		#newer_doc = soup.part.extract()
 			
 
-		with codecs.open("oceania_pdfs/_ocr_output_structured/" + file_name + '_ocr_output_structured.xml','w','utf-8') as out:
+		with codecs.open("oceania_pdfs/_ocr_output_structured/" + file_name + 'structured.xml','w','utf-8') as out:
 			out.write(unicode(newer_doc))
 		# '''
+
 print count
 print 'finished'
