@@ -35,7 +35,7 @@ for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('<imagedata src="images/', '<imagedata src="http://www.mappingoceaniadenison.org/temp_images/temp_images/')
+		new_doc = doc.replace('<part>\r', '<part>\r<metadata>\r')
 
 		#soup = BeautifulSoup(new_doc)
 
