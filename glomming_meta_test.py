@@ -22,6 +22,9 @@ for i in glob.glob("test_batch/test_xml/*.xml"):
 	
 	#print i
 	#count = count + 1
+	#print count
+
+	
 
 	file_name = i.split('/')[-1][:-8]
 	#count = count + 1
@@ -41,9 +44,9 @@ for i in glob.glob("test_batch/test_xml/*.xml"):
 
 		soup = BeautifulSoup(doc)
 
-		newer_doc = soup.item_data.extract().prettify
+		newer_doc = soup.item_data.extract().prettify()
 
-		with open('test_batch/test_xml_glom/test_xml_glom','a','utf-8') as out:
+		with codecs.open("test_batch/test_xml_glom/test_xml_glom.xml",'a','utf-8') as out:
 			out.write(unicode(newer_doc))
 		
 
