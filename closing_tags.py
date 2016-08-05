@@ -8,15 +8,15 @@ sys.setdefaultencoding('utf-8')
 
 count = 0
 
-if not os.path.exists("oceania_pdfs/_oceania_metadata"):
-    os.makedirs("oceania_pdfs/_oceania_metadata")
+#if not os.path.exists("oceania_pdfs/_oceania_metadata"):
+#    os.makedirs("oceania_pdfs/_oceania_metadata")
 
-for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"): 
+for i in glob.glob("oceania_pdfs/_oceania_metadata/*.xml"): 
 	
 	#print i
 	#count = count + 1
 
-	file_name = i.split('/')[-1][:-14]
+	file_name = i.split('/')[-1][:-8]
 	
 	#count = count + 1
 	
@@ -27,7 +27,7 @@ for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"):
 		'''
 		# Open this partition (and uncomment partition above final print statements) to run count tests for terms in the doc.
 
-		if '<imagedata src="images/' in doc:
+		if '</textbox>' in doc:
 			count = count + 1
 
 		else:
@@ -35,18 +35,18 @@ for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"):
 
 		'''
 
-		# new_doc = doc.replace('<part>\r', '<part>\r<metadata>\r')
+		new_doc = doc.replace('</figure>', '').replace('<figure>', '')
 
-		soup = BeautifulSoup(doc)
+		#soup = BeautifulSoup(doc)
 
-		newer_doc = soup.metadata.extract()
+		#newer_doc = soup.metadata.extract()
 			
 
 		with codecs.open("oceania_pdfs/_oceania_metadata/" + file_name + 'meta.xml','w','utf-8') as out:
-			out.write(unicode(newer_doc))
+			out.write(unicode(new_doc))
 
 		count = count + 1
-
+		# '''
 		  
 
 print count
