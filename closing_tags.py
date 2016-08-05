@@ -8,8 +8,8 @@ sys.setdefaultencoding('utf-8')
 
 count = 0
 
-if not os.path.exists("oceania_pdfs/_ocr_output_structured"):
-    os.makedirs("oceania_pdfs/_ocr_output_structured")
+if not os.path.exists("oceania_pdfs/_oceania_metadata"):
+    os.makedirs("oceania_pdfs/_oceania_metadata")
 
 for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"): 
 	
@@ -35,15 +35,15 @@ for i in glob.glob("oceania_pdfs/_ocr_output_structured/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('<part>\r', '<part>\r<metadata>\r')
+		#new_doc = doc.replace('<part>\r', '<part>\r<metadata>\r')
 
-		#soup = BeautifulSoup(new_doc)
+		soup = BeautifulSoup(doc)
 
-		#newer_doc = soup.part.extract()
+		newer_doc = soup.metadata.extract()
 			
 
-		with codecs.open("oceania_pdfs/_ocr_output_structured/" + file_name + 'structured.xml','w','utf-8') as out:
-			out.write(unicode(new_doc))
+		with codecs.open("oceania_pdfs/_oceania_metadata/" + file_name + 'meta.xml','w','utf-8') as out:
+			out.write(unicode(newer_doc))
 
 		count = count + 1
 
