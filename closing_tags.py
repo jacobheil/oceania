@@ -35,7 +35,7 @@ for i in glob.glob("oceania_pdfs/_oceania_metadata/*.xml"):
 
 		'''
 
-		new_doc = doc.replace('</figure>', '').replace('<figure>', '')
+		new_doc = doc.replace('<imagedata src="', '<imagedata>').replace('.jpg">\r</imagedata>', '.jpg</imagedata>')
 
 		#soup = BeautifulSoup(doc)
 
