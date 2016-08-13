@@ -47,7 +47,7 @@ for i in glob.glob("test_batch/test_xml/*.xml"):
 		newer_doc = soup.item_data.extract().prettify()
 
 		with codecs.open("test_batch/test_xml_glom/test_xml_glom.xml",'a','utf-8') as out:
-			out.write(unicode(newer_doc))
+			out.write(unicode(newer_doc)+"\r\r")
 		
 
 print 'finished'
