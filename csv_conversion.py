@@ -7,8 +7,7 @@ sys.setdefaultencoding('utf-8')
 #rep = {"condition1": "", "condition2": "text"} # define desired replacements here
 
 '''
-Python script to extract xml data from the oceania files. I've saved them as .xml from .pdfs and am now trying to automate some way to get structure out of them. Not sure how this is going to go. Starting with this tutorial: 
-		https://www.rdegges.com/2013/quickly-extract-xml-data-with-python/
+THIS script builds from "glomming_meta_test" in which I made one big XML file from the 
 
 '''
 count = 0
@@ -44,12 +43,10 @@ for i in glob.glob("test_batch/test_xml/*.xml"):
 
 		soup = BeautifulSoup(doc)
 
-		for item in soup.find_all('item_data'): 
-			
-			newer_doc = soup.item_data.extract().prettify()
+		newer_doc = soup.item_data.extract().prettify()
 
-			with codecs.open("test_batch/test_xml_glom/test_xml_glom.xml",'a','utf-8') as out:
-				out.write(unicode(newer_doc)+"\r\r")
+		with codecs.open("test_batch/test_xml_glom/test_xml_glom.xml",'a','utf-8') as out:
+			out.write(unicode(newer_doc)+"\r\r")
 		
 
 print 'finished'
