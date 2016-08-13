@@ -28,11 +28,11 @@ Were I to advise on a project like this again we could do a few things better. (
     * Checking that files were associated with the proper images on the server
     * Closing tags
     * Ordering Metadata and giving item-level structure
-
-## Next Steps
-1. Write a script to convert the glommed metadata into a CSV file
+5. Used `csv_conversion.py` to convert the glommed metadata into a CSV file
 	* I'm using [this tutorial](http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-xml-to-csv-using-python/). My XML was not well-formed: for XML tree to work you have to have a root element that encloses the whole thing. I just used `<items>`.
-	*
-2. Upload 20 item test batch to Omeka 
+	* make sure the metadata is right or it'll throw an error. 
+	
+## Next Steps
+1. Upload 20 item test batch to Omeka 
 
 
