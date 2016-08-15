@@ -31,8 +31,25 @@ Were I to advise on a project like this again we could do a few things better. (
 5. Used `csv_conversion.py` to convert the glommed metadata into a CSV file
 	* I'm using [this tutorial](http://blog.appliedinformaticsinc.com/how-to-parse-and-convert-xml-to-csv-using-python/). My XML was not well-formed: for XML tree to work you have to have a root element that encloses the whole thing. I just used `<items>`.
 	* make sure the metadata is right or it'll throw an error. 
+6. Using the [CSV Import plugin](https://omeka.org/codex/Plugins/CSV_Import_2.0) I was pretty easily able to import the records from the interwebs. 
+	* I was then able to delete the temporary directory that I stashed on the server to hold the edited images, just until they could be uploaded to the site. (I changed the DPI to 75 for all of them.)
+	* I ran into an error related to Omeka on hosted services. I used [this from the Reclaim Docs](http://docs.reclaimhosting.com/omeka/working-with-omeka) to solve it.
+
+## Exhibit making from scraped PDFs
+1. This required some work by hand, but probably less than if I were just copying and pasting all of these steps from PDFs. 
+2. In order to recreate the PDF exhibits ([example here](https://github.com/jacobheil/oceania/blob/master/oceania_pdfs/d827efd96e61a0f2615b6c06ab90f566.pdf)) I created a parent exhibit -- Polynesia and Melanesia -- and then hand-transferred the information from each PDF page into an exhibit "page", [like this one](http://www.alpha.mappingoceaniadenison.org/exhibits/show/melanesia/feast-bowl-admiralty-islands--).
+3. hand-copied text in at least three parts
+	1. First "file with text" in which I pasted the text alongside one of the two Oceanic objects featured in the PDF exhibit.
+	2. Second "file with text" for the other object and the rest of the text.
+	3. "Text only" section in which I pasted the bibliograpy. 
+4. For the bibliography 
+	1. I converted any links to actual HTML links by hand, and 
+	2. pasted that into [a web-based HTML converter](http://www.textfixer.com/html/convert-text-html.php) (to save me the steps of keying `<p>` tags and the like).
+	3. Finally I opened the [HTML editing window](https://omeka.org/codex/Using_HTML_Editor-TinyMCE), pasted the converted text.
+5. REPEAT for each exhibit in the `test_batch`.
 
 ## Next Steps
-1. Upload 20 item test batch to Omeka 
+1. Clean data from the remaining 20 PDFs to create 40 new objects and import them. 
+2. Import the student reports as exhibits
 
 
